@@ -1,3 +1,5 @@
+package array
+
 fun main() {
     val serie: IntRange = 1.rangeTo(10)
     for (s in serie) {

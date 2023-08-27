@@ -1,3 +1,5 @@
+package array
+
 import java.math.BigDecimal
 
 fun bigDecimalArrayOf(vararg valores: String): Array<BigDecimal> {

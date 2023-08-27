@@ -1,3 +1,5 @@
+package array
+
 fun main() {
     val idades: IntArray = intArrayOf(10, 12, 18, 33, 40, 68)
 
